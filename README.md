@@ -1,33 +1,52 @@
 <h1 align="center">Hi 👋, I'm Shifa Khatri</h1>
-<h3 align="center">🎮 Game Developer | 💻 Web Developer | 🧠 Tech Explorer</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🎮 Game Developer | 🚀 Always Exploring</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Unity%20+%20VR/AR%20Developer;Full-Stack%20Web%20Dev%20with%20JS%20&%20Node;Exploring%20AI%20in%20Games;Let%E2%80%99s%20build%20cool%20stuff!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Dev+%F0%9F%92%BB;API%2C+Node%2C+React+%2C+Mongo+%2B+PostgreSQL;Unity+Game+Developer+%F0%9F%8E%AE;Tech+Explorer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%A1" />
+</p>
+
+---
+
+## 💻 Web Development
+
+🔥 Skilled in building full-stack apps with real-time updates and secure backends.
+
+**Languages & Frameworks:**
+- HTML, CSS, JavaScript, PHP, Python, C++
+- React, Laravel, Node.js
+
+**Backends & DBs:**
+- PostgreSQL, MongoDB, WebSockets, REST APIs
+
+**Projects:**
+- 🔐 **[Vulnerability Scanner](https://github.com/FluffyCrunch/VulnerabilityScanner)** — Real-time scanning dashboard with PostgreSQL, Node, WebSockets, and notifications.
+- 🧪 **[API-Based Projects](#)** — Backend services using Node.js, Express, and MongoDB (uploading soon)
+- 💼 **[Portfolio Website](#)** — Interactive frontend with React, SCSS, and smooth UI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,python,cpp,mongodb,postgres,api,vscode,postman" />
 </p>
 
 ---
 
 ## 🎮 Game Development
-- 🔧 Building VR & AR apps in **Unity** using **OpenXR**
-- 🧠 Exploring AI in Games: Matchmaking, Pathfinding
-- 🕹 Created projects like:
-  - 🖼️ **[Colorizer-AI](https://github.com/FluffyCrunch/Colorizer-AI)** – Colorizes old B&W photos using DL
-  - 🎯 Unity FPS (uploading soon)
 
----
+⚙️ I build immersive games and mechanics using Unity and C#.
 
-## 💻 Web Development
-- 🧩 Front-End: HTML, CSS, JavaScript, React, Tailwind
-- ⚙️ Back-End: Node.js, Express.js, PostgreSQL, WebSockets
-- 🔐 Built a full-featured **Vulnerability Scanner for Websites**
-  - 📂 [View Project](https://github.com/FluffyCrunch/VulnerabilityScanner)
+**Skills:**
+- Unity Engine (2D/3D)
+- VR with OpenXR
+- C# scripting (mechanics, input, UI, AI behavior)
 
----
+**Projects:**
+- 🕹️ FPS Game (coming soon)
+- 🎨 [Colorizer-AI](https://github.com/FluffyCrunch/Colorizer-AI) — DL-powered image colorization
+- 🧠 Mini puzzle and platformer games
 
-## 🛠️ Tech Stack
-
+**GIF Preview:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,postgresql,unity,cs,python,git,github,vscode,postman" />
+  <!-- Replace the link below with your GIF URL if available -->
+  <img src="https://media.giphy.com/media/L08p7vHy0Zrgu/giphy.gif" alt="Game Preview" width="400"/>
 </p>
 
 ---
@@ -35,20 +54,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FluffyCrunch&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FluffyCrunch&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FluffyCrunch&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FluffyCrunch&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shifa-khatri-877a002b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your-shifaskhatri10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
