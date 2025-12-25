@@ -43,7 +43,7 @@
 - C# scripting (mechanics, input, UI, AI behavior)
 
 **Projects:**
-- 🕹️ **[Flappy Bird](https://github.com/FluffyCrunch/FlappyBird)** — Classic Flappy Bird game recreated in Unity with C#. Features smooth gameplay mechanics, score system, and obstacle generation.
+- 🕹️ **[Flappy Bird](https://github.com/Fluffycrunch/Unity-Game/tree/main/FlappyBird)** — Classic Flappy Bird game recreated in Unity with C#. Features smooth gameplay mechanics, score system, and obstacle generation.
 
 ---
 
