@@ -20,8 +20,6 @@
 
 **Projects:**
 - 🔐 **[Vulnerability Scanner](https://github.com/FluffyCrunch/VulnerabilityScanner)** — Real-time scanning dashboard with PostgreSQL, Node, WebSockets, and notifications.
-- 🧪 **[API-Based Projects](#)** — Backend services using Node.js, Express, and MongoDB (uploading soon)
-- 💼 **[Portfolio Website](#)** — Interactive frontend with React, SCSS, and smooth UI
 
 **Mini Projects:**
 - 🤖 **[DL - Colorizing B&W Images](https://github.com/FluffyCrunch/Mini-Projects/tree/main/DL)** — Deep Learning project using CNN to automatically colorize grayscale images with TensorFlow and Keras.
@@ -46,24 +44,6 @@
 
 **Projects:**
 - 🕹️ **[Flappy Bird](https://github.com/FluffyCrunch/FlappyBird)** — Classic Flappy Bird game recreated in Unity with C#. Features smooth gameplay mechanics, score system, and obstacle generation.
-- 🕹️ FPS Game (coming soon)
-- 🎨 [Colorizer-AI](https://github.com/FluffyCrunch/Colorizer-AI) — DL-powered image colorization
-- 🧠 Mini puzzle and platformer games
-
-**GIF Preview:**
-<p align="center">
-  <!-- Replace the link below with your GIF URL if available -->
-  <img src="https://media.giphy.com/media/L08p7vHy0Zrgu/giphy.gif" alt="Game Preview" width="400"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FluffyCrunch&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FluffyCrunch&theme=radical" />
-</p>
 
 ---
 
