@@ -19,7 +19,7 @@
 - PostgreSQL, MongoDB, WebSockets, REST APIs
 
 **Projects:**
-- 🔐 **[Vulnerability Scanner](https://github.com/FluffyCrunch/Projects/tree/main/Vulnerability-Scanner)** — Real-time scanning dashboard with PostgreSQL, Node, WebSockets, and notifications.
+- 🔐 **[Vulnerability Scanner](https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner)** — Real-time scanning dashboard with PostgreSQL, Node, WebSockets, and notifications.
 
 **Mini Projects:**
 - 🤖 **[DL - Colorizing B&W Images](https://github.com/FluffyCrunch/Mini-Projects/tree/main/DL)** — Deep Learning project using CNN to automatically colorize grayscale images with TensorFlow and Keras.
