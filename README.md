@@ -20,6 +20,7 @@
 
 **Projects:**
 - 🔐 **[Vulnerability Scanner](https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner)** — Real-time scanning dashboard with PostgreSQL, Node, WebSockets, and notifications.
+- 🚀 **[IITIAN CRAFT Website](https://github.com/FluffyCrunch/tree/main/Online-Digital-Services-Website)** — First draft of the official IITIAN CRAFT website. Full-stack web application with React, Node.js/Express, MongoDB, PostgreSQL, featuring user authentication, admin dashboard, contact forms, demo booking, and Google Meet scheduling.
 
 **Mini Projects:**
 - 🤖 **[DL - Colorizing B&W Images](https://github.com/FluffyCrunch/Mini-Projects/tree/main/DL)** — Deep Learning project using CNN to automatically colorize grayscale images with TensorFlow and Keras.
