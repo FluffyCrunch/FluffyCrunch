@@ -36,15 +36,22 @@
 
 ## 🎮 Game Development
 
-⚙️ I build immersive games and mechanics using Unity and C#.
+⚙️ I build immersive games and mechanics using Unity, C#, and Phaser.js.
 
 **Skills:**
 - Unity Engine (2D/3D)
+- Phaser.js for browser-based games
 - VR with OpenXR
 - C# scripting (mechanics, input, UI, AI behavior)
+- JavaScript game development
 
 **Projects:**
+- 🍎 **[Apple Catcher](https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher)** — A fun browser-based arcade game built with Phaser.js. Catch falling apples with a basket in this 30-second challenge! Features smooth physics, particle effects, sound effects, and real-time scoring.
 - 🕹️ **[Flappy Bird](https://github.com/Fluffycrunch/Unity-Game/tree/main/Flappy_Bird)** — Classic Flappy Bird game recreated in Unity with C#. Features smooth gameplay mechanics, score system, and obstacle generation.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,js,html,css" />
+</p>
 
 ---
 
@@ -62,3 +69,4 @@
 ---
 
 ⭐️ From [FluffyCrunch](https://github.com/FluffyCrunch)
+
