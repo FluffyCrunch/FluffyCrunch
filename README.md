@@ -12,14 +12,17 @@
 
 ---
 
-## 🎮 Game Development
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,js,html,css,vite" />
+  <img src="assets/cards/tech-stack-v1.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
 </p>
 
-**Engines & tools:** Unity (2D/3D) · PixiJS (v7 & v8) · pixi3d · Babylon.js · Phaser.js · OpenXR (VR)<br/>
-**I work on:** gameplay mechanics, UI, AI behaviour, particle systems, custom GLSL shaders, GLB/glTF models, Web Audio, PWAs
+---
+
+## 🎮 Game Development
+
+<p align="center"><i>Gameplay mechanics · UI · AI behaviour · particle systems · custom GLSL shaders · GLB/glTF models · Web Audio · PWAs</i></p>
 
 ### 🕹️ Projects
 
@@ -43,12 +46,7 @@
 
 ## 💻 Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,python,cpp,mongodb,postgres,api,vscode,postman" />
-</p>
-
-**Languages & frameworks:** HTML · CSS · JavaScript · PHP · Python · C++ · React · Laravel · Node.js<br/>
-**Backends & data:** PostgreSQL · MongoDB · WebSockets · REST APIs
+<p align="center"><i>Full-stack apps · real-time dashboards · authentication · admin panels · REST APIs · secure backends</i></p>
 
 ### 🚀 Projects
 
