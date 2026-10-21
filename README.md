@@ -61,7 +61,7 @@
 ## <img src="assets/icons/layers.svg" width="26" /> Tech Stack
 
 <p align="center">
-  <img src="assets/cards/tech-stack-v3.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
+  <img src="assets/cards/tech-stack-v4.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
 </p>
 
 ---
