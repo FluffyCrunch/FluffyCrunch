@@ -12,14 +12,6 @@
 
 ---
 
-## <img src="assets/icons/layers.svg" width="26" /> Tech Stack
-
-<p align="center">
-  <img src="assets/cards/tech-stack-v2.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
-</p>
-
----
-
 ## <img src="assets/icons/gamepad.svg" width="26" /> Game Development
 
 <p align="center"><i>Gameplay mechanics · UI · AI behaviour · particle systems · custom GLSL shaders · GLB/glTF models · Web Audio · PWAs</i></p>
@@ -63,6 +55,14 @@
 | <img src="assets/icons/cpu.svg" width="18" /> [**Huffman Encoding on GPU**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/HPC) | Huffman compression accelerated on the GPU | Python · CuPy |
 | <img src="assets/icons/search.svg" width="18" /> [**Real-Time Search Engine**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/NLP) | AI search that answers with context from live results | Google Search API · Groq (Llama3-70b) |
 | <img src="assets/icons/palette.svg" width="18" /> [**Colorizing B&W Images**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/DL) | CNN that automatically colourises grayscale photos | TensorFlow · Keras |
+
+---
+
+## <img src="assets/icons/layers.svg" width="26" /> Tech Stack
+
+<p align="center">
+  <img src="assets/cards/tech-stack-v2.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
+</p>
 
 ---
 
