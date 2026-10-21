@@ -24,23 +24,20 @@
 ### 🕹️ Projects
 
 <p align="center">
-  <a href="https://voidrushpixi.netlify.app/"><img src="assets/cards/void-rush-v2.svg" alt="Void Rush" width="98%" /></a>
+  <a href="https://voidrushpixi.netlify.app/"><img src="assets/cards/void-rush-v3.svg" alt="Void Rush" width="98%" /></a>
 </p>
-<p align="center"><sub><b>Void Rush</b>: <a href="https://voidrushpixi.netlify.app/">▶️ Play</a> · <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Void-Rush">💻 Code</a></sub></p>
 <br/>
 
 <p align="center">
-  <a href="https://crystalux.netlify.app/"><img src="assets/cards/crystalux-v2.svg" alt="Crystalux" width="48%" /></a>&nbsp;
-  <a href="https://nebula-pixijs.netlify.app/"><img src="assets/cards/nebula-v2.svg" alt="Nebula" width="48%" /></a>
+  <a href="https://crystalux.netlify.app/"><img src="assets/cards/crystalux-v3.svg" alt="Crystalux" width="48%" /></a>&nbsp;
+  <a href="https://nebula-pixijs.netlify.app/"><img src="assets/cards/nebula-v3.svg" alt="Nebula" width="48%" /></a>
 </p>
-<p align="center"><sub><b>Crystalux</b>: <a href="https://crystalux.netlify.app/">▶️ Play</a> · <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Crystalux">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Nebula</b>: <a href="https://nebula-pixijs.netlify.app/">▶️ Try it</a> · <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Nebula">💻 Code</a></sub></p>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><img src="assets/cards/apple-catcher-v2.svg" alt="Apple Catcher" width="48%" /></a>&nbsp;
-  <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><img src="assets/cards/flappy-bird-v2.svg" alt="Flappy Bird" width="48%" /></a>
+  <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><img src="assets/cards/apple-catcher-v3.svg" alt="Apple Catcher" width="48%" /></a>&nbsp;
+  <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><img src="assets/cards/flappy-bird-v3.svg" alt="Flappy Bird" width="48%" /></a>
 </p>
-<p align="center"><sub><b>Apple Catcher</b>: <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Flappy Bird</b>: <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird">💻 Code</a></sub></p>
 
 ---
 
@@ -56,10 +53,9 @@
 ### 🚀 Projects
 
 <p align="center">
-  <a href="https://iitiancraft.com/"><img src="assets/cards/iitian-craft-v2.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
-  <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner-v2.svg" alt="Vulnerability Scanner" width="48%" /></a>
+  <a href="https://iitiancraft.com/"><img src="assets/cards/iitian-craft-v3.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
+  <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner-v3.svg" alt="Vulnerability Scanner" width="48%" /></a>
 </p>
-<p align="center"><sub><b>IITIAN CRAFT Website</b>: <a href="https://iitiancraft.com/">🌐 Live site</a> · <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Vulnerability Scanner</b>: <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner">💻 Code</a></sub></p>
 
 ### 🧪 Mini Projects
 

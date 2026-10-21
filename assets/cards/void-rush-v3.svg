@@ -42,5 +42,8 @@
   <text class="t" x="784.5503125" y="262.5" fill="#a78bfa" font-size="12" font-weight="700" text-anchor="middle">Babylon.js</text>
   <rect x="837.735625" y="246" width="47.065625" height="24" rx="12" fill="#a78bfa" fill-opacity="0.16" stroke="#a78bfa" stroke-opacity="0.55"/>
   <text class="t" x="861.2684375" y="262.5" fill="#a78bfa" font-size="12" font-weight="700" text-anchor="middle">Vite</text>
-  <text class="t" x="604" y="296" fill="#a78bfa" font-size="14" font-weight="700">▶  Play live  ·  View code</text>
+  <rect x="604" y="292" width="139.215" height="38" rx="19" fill="#facc15"/>
+  <text class="t" x="673.6075" y="317" fill="#111827" font-size="16" font-weight="800" text-anchor="middle">▶  Play live</text>
+  <rect x="771.215" y="292" width="175.375" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.85" stroke-width="1.5"/>
+  <text class="t" x="858.9025" y="317" fill="#ffffff" font-size="16" font-weight="800" text-anchor="middle">&lt;/&gt;  View code</text>
 </svg>
