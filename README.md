@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shifa Khatri</h1>
-<h3 align="center">🎮 Game Developer &nbsp;|&nbsp; 💻 Full Stack Web Developer &nbsp;|&nbsp; 🚀 Always Exploring</h3>
+<h1 align="center">Hi <img src="assets/icons/wave.svg" width="38" />, I'm Shifa Khatri</h1>
+<h3 align="center"><img src="assets/icons/gamepad.svg" width="22" /> Game Developer &nbsp;|&nbsp; <img src="assets/icons/code.svg" width="22" /> Full Stack Web Developer &nbsp;|&nbsp; <img src="assets/icons/rocket.svg" width="22" /> Always Exploring</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Unity+Game+Developer+%F0%9F%8E%AE;3D+Web+Games+with+PixiJS+%2B+Babylon.js+%F0%9F%8F%B0;Full+Stack+Web+Dev+%F0%9F%92%BB;API%2C+Node%2C+React+%2C+Mongo+%2B+PostgreSQL;Tech+Explorer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%A1&center=true&width=520" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Unity+Game+Developer;3D+Web+Games+with+PixiJS+%2B+Babylon.js;Full+Stack+Web+Dev;API%2C+Node%2C+React+%2C+Mongo+%2B+PostgreSQL;Tech+Explorer;Open+Source+Contributor&center=true&width=520" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## <img src="assets/icons/layers.svg" width="26" /> Tech Stack
 
 <p align="center">
   <img src="assets/cards/tech-stack-v1.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
@@ -20,11 +20,11 @@
 
 ---
 
-## 🎮 Game Development
+## <img src="assets/icons/gamepad.svg" width="26" /> Game Development
 
 <p align="center"><i>Gameplay mechanics · UI · AI behaviour · particle systems · custom GLSL shaders · GLB/glTF models · Web Audio · PWAs</i></p>
 
-### 🕹️ Projects
+### <img src="assets/icons/joystick.svg" width="22" /> Projects
 
 <p align="center">
   <a href="https://voidrushpixi.netlify.app/"><img src="assets/cards/void-rush-v4.svg" alt="Void Rush" width="98%" /></a>
@@ -44,29 +44,29 @@
 
 ---
 
-## 💻 Web Development
+## <img src="assets/icons/code.svg" width="26" /> Web Development
 
 <p align="center"><i>Full-stack apps · real-time dashboards · authentication · admin panels · REST APIs · secure backends</i></p>
 
-### 🚀 Projects
+### <img src="assets/icons/rocket.svg" width="22" /> Projects
 
 <p align="center">
   <a href="https://iitiancraft.com/"><img src="assets/cards/iitian-craft-v4.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
   <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner-v4.svg" alt="Vulnerability Scanner" width="48%" /></a>
 </p>
 
-### 🧪 Mini Projects
+### <img src="assets/icons/flask.svg" width="22" /> Mini Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| 📊 [**Business Intelligence**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/BI) | Data analysis, visualisation and insight generation | Pandas · Matplotlib · Seaborn |
-| ⚡ [**Huffman Encoding on GPU**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/HPC) | Huffman compression accelerated on the GPU | Python · CuPy |
-| 💬 [**Real-Time Search Engine**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/NLP) | AI search that answers with context from live results | Google Search API · Groq (Llama3-70b) |
-| 🤖 [**Colorizing B&W Images**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/DL) | CNN that automatically colourises grayscale photos | TensorFlow · Keras |
+| <img src="assets/icons/chart.svg" width="18" /> [**Business Intelligence**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/BI) | Data analysis, visualisation and insight generation | Pandas · Matplotlib · Seaborn |
+| <img src="assets/icons/cpu.svg" width="18" /> [**Huffman Encoding on GPU**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/HPC) | Huffman compression accelerated on the GPU | Python · CuPy |
+| <img src="assets/icons/search.svg" width="18" /> [**Real-Time Search Engine**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/NLP) | AI search that answers with context from live results | Google Search API · Groq (Llama3-70b) |
+| <img src="assets/icons/palette.svg" width="18" /> [**Colorizing B&W Images**](https://github.com/FluffyCrunch/Mini-Projects/tree/main/DL) | CNN that automatically colourises grayscale photos | TensorFlow · Keras |
 
 ---
 
-## 🌐 Connect with Me
+## <img src="assets/icons/globe.svg" width="26" /> Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shifa-khatri-877a002b2" target="_blank">
@@ -80,4 +80,4 @@
   </a>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/FluffyCrunch">FluffyCrunch</a></p>
+<p align="center"><img src="assets/icons/star.svg" width="16" /> From <a href="https://github.com/FluffyCrunch">FluffyCrunch</a></p>
