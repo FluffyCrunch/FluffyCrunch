@@ -56,10 +56,10 @@
 ### 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website"><img src="assets/cards/iitian-craft.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
+  <a href="https://iitiancraft.com/"><img src="assets/cards/iitian-craft.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
   <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner.svg" alt="Vulnerability Scanner" width="48%" /></a>
 </p>
-<p align="center"><sub><b>IITIAN CRAFT Website</b>: <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Vulnerability Scanner</b>: <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner">💻 Code</a></sub></p>
+<p align="center"><sub><b>IITIAN CRAFT Website</b>: <a href="https://iitiancraft.com/">🌐 Live site</a> · <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Vulnerability Scanner</b>: <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner">💻 Code</a></sub></p>
 
 ### 🧪 Mini Projects
 
