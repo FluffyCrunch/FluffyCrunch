@@ -40,6 +40,4 @@
   <text class="t" x="211.39249999999998" y="461.5" fill="#818cf8" font-size="12" font-weight="700" text-anchor="middle">PWA</text>
   <rect x="38" y="491" width="147.4475" height="38" rx="19" fill="#facc15"/>
   <text class="t" x="111.72375" y="516" fill="#111827" font-size="16" font-weight="800" text-anchor="middle">▶  Try it live</text>
-  <rect x="213.4475" y="491" width="175.375" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.85" stroke-width="1.5"/>
-  <text class="t" x="301.135" y="516" fill="#ffffff" font-size="16" font-weight="800" text-anchor="middle">&lt;/&gt;  View code</text>
 </svg>

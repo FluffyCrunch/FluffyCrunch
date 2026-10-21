@@ -24,19 +24,19 @@
 ### 🕹️ Projects
 
 <p align="center">
-  <a href="https://voidrushpixi.netlify.app/"><img src="assets/cards/void-rush-v3.svg" alt="Void Rush" width="98%" /></a>
+  <a href="https://voidrushpixi.netlify.app/"><img src="assets/cards/void-rush-v4.svg" alt="Void Rush" width="98%" /></a>
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://crystalux.netlify.app/"><img src="assets/cards/crystalux-v3.svg" alt="Crystalux" width="48%" /></a>&nbsp;
-  <a href="https://nebula-pixijs.netlify.app/"><img src="assets/cards/nebula-v3.svg" alt="Nebula" width="48%" /></a>
+  <a href="https://crystalux.netlify.app/"><img src="assets/cards/crystalux-v4.svg" alt="Crystalux" width="48%" /></a>&nbsp;
+  <a href="https://nebula-pixijs.netlify.app/"><img src="assets/cards/nebula-v4.svg" alt="Nebula" width="48%" /></a>
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><img src="assets/cards/apple-catcher-v3.svg" alt="Apple Catcher" width="48%" /></a>&nbsp;
-  <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><img src="assets/cards/flappy-bird-v3.svg" alt="Flappy Bird" width="48%" /></a>
+  <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><img src="assets/cards/apple-catcher-v4.svg" alt="Apple Catcher" width="48%" /></a>&nbsp;
+  <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><img src="assets/cards/flappy-bird-v4.svg" alt="Flappy Bird" width="48%" /></a>
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ### 🚀 Projects
 
 <p align="center">
-  <a href="https://iitiancraft.com/"><img src="assets/cards/iitian-craft-v3.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
-  <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner-v3.svg" alt="Vulnerability Scanner" width="48%" /></a>
+  <a href="https://iitiancraft.com/"><img src="assets/cards/iitian-craft-v4.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
+  <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner-v4.svg" alt="Vulnerability Scanner" width="48%" /></a>
 </p>
 
 ### 🧪 Mini Projects

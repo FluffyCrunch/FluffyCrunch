@@ -41,6 +41,4 @@
   <text class="t" x="327.391875" y="439.5" fill="#60a5fa" font-size="12" font-weight="700" text-anchor="middle">PostgreSQL</text>
   <rect x="38" y="469" width="180.5875" height="38" rx="19" fill="#facc15"/>
   <text class="t" x="128.29375" y="494" fill="#111827" font-size="16" font-weight="800" text-anchor="middle">▶  Visit live site</text>
-  <rect x="246.5875" y="469" width="175.375" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.85" stroke-width="1.5"/>
-  <text class="t" x="334.275" y="494" fill="#ffffff" font-size="16" font-weight="800" text-anchor="middle">&lt;/&gt;  View code</text>
 </svg>

@@ -37,6 +37,4 @@
   <text class="t" x="168.51625" y="439.5" fill="#f472b6" font-size="12" font-weight="700" text-anchor="middle">JavaScript</text>
   <rect x="38" y="469" width="139.215" height="38" rx="19" fill="#facc15"/>
   <text class="t" x="107.6075" y="494" fill="#111827" font-size="16" font-weight="800" text-anchor="middle">▶  Play live</text>
-  <rect x="205.215" y="469" width="175.375" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.85" stroke-width="1.5"/>
-  <text class="t" x="292.90250000000003" y="494" fill="#ffffff" font-size="16" font-weight="800" text-anchor="middle">&lt;/&gt;  View code</text>
 </svg>
