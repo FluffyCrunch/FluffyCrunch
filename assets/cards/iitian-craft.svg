@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="286" viewBox="0 0 500 286">
+  <defs>
+    <linearGradient id="bdiitiancraft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bgiitiancraft" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161b2e"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="gliitiancraft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <style>
+    .t{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;}
+  </style>
+  <rect x="14" y="14" width="472" height="258" rx="18" fill="none" stroke="url(#bdiitiancraft)" stroke-width="6" filter="url(#gliitiancraft)" opacity=".4"><animate attributeName="opacity" values=".3;.85;.3" dur="3.2s" repeatCount="indefinite"/></rect>
+  <rect x="14" y="14" width="472" height="258" rx="18" fill="url(#bgiitiancraft)"/>
+  <rect x="14" y="14" width="472" height="258" rx="18" fill="none" stroke="url(#bdiitiancraft)" stroke-width="1.6"/>
+  <text class="t" x="38" y="68" fill="#f0f6fc" font-size="24" font-weight="700">IITIAN CRAFT Website</text>
+  <text class="t" x="38" y="98" fill="#9da7b3" font-size="15">First draft of the official IITIAN CRAFT site. A full-stack</text>
+  <text class="t" x="38" y="120" fill="#9da7b3" font-size="15">app with user auth, an admin dashboard, contact forms,</text>
+  <text class="t" x="38" y="142" fill="#9da7b3" font-size="15">demo booking and Google Meet scheduling.</text>
+  <rect x="38" y="174" width="58.326875" height="24" rx="12" fill="#60a5fa" fill-opacity="0.16" stroke="#60a5fa" stroke-opacity="0.55"/>
+  <text class="t" x="67.1634375" y="190.5" fill="#60a5fa" font-size="12" font-weight="700" text-anchor="middle">React</text>
+  <rect x="104.326875" y="174" width="72.8675" height="24" rx="12" fill="#60a5fa" fill-opacity="0.16" stroke="#60a5fa" stroke-opacity="0.55"/>
+  <text class="t" x="140.760625" y="190.5" fill="#60a5fa" font-size="12" font-weight="700" text-anchor="middle">Express</text>
+  <rect x="185.194375" y="174" width="84.670625" height="24" rx="12" fill="#60a5fa" fill-opacity="0.16" stroke="#60a5fa" stroke-opacity="0.55"/>
+  <text class="t" x="227.52968750000002" y="190.5" fill="#60a5fa" font-size="12" font-weight="700" text-anchor="middle">MongoDB</text>
+  <rect x="277.865" y="174" width="99.05375" height="24" rx="12" fill="#60a5fa" fill-opacity="0.16" stroke="#60a5fa" stroke-opacity="0.55"/>
+  <text class="t" x="327.391875" y="190.5" fill="#60a5fa" font-size="12" font-weight="700" text-anchor="middle">PostgreSQL</text>
+  <text class="t" x="38" y="224" fill="#60a5fa" font-size="14" font-weight="700">&lt;/&gt;  View code</text>
+</svg>

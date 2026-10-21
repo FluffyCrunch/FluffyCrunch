@@ -23,77 +23,24 @@
 
 ### 🕹️ Projects
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://voidrushpixi.netlify.app/"><img src="assets/void-rush.jpg" alt="Void Rush" width="100%" /></a>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🏰 Void Rush</h3>
-      <p>A 3D tower defense game, built twice on the same game data, once in <b>PixiJS + pixi3d</b> and once in <b>Babylon.js</b>.</p>
-      <p>Place Frost, Laser, Cannon, Tesla and Spike Trap towers, unlock branching upgrades, and hold off 12 waves, including boss fights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PixiJS-e91e63?style=flat-square" />
-        <img src="https://img.shields.io/badge/pixi3d-7b1fa2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Babylon.js-bb464b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://voidrushpixi.netlify.app/"><b>▶️ Play</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Void-Rush"><b>💻 Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://voidrushpixi.netlify.app/"><img src="assets/cards/void-rush.svg" alt="Void Rush" width="98%" /></a>
+</p>
+<p align="center"><sub><b>Void Rush</b>: <a href="https://voidrushpixi.netlify.app/">▶️ Play</a> · <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Void-Rush">💻 Code</a></sub></p>
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://crystalux.netlify.app/"><img src="assets/crystalux.jpg" alt="Crystalux" width="100%" /></a>
-      <h3>💎 Crystalux</h3>
-      <p>A 60-second match-3 gem puzzler. Chain cascades into combos, set off bomb gems, and chase a 3-star rating. Touch-friendly, with hints, particles, music and SFX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PixiJS_v8-e91e63?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
-      </p>
-      <a href="https://crystalux.netlify.app/"><b>▶️ Play</b></a> &nbsp;·&nbsp;
-      <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Crystalux"><b>💻 Code</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://nebula-pixijs.netlify.app/"><img src="assets/nebula.jpg" alt="Nebula" width="100%" /></a>
-      <h3>🌌 Nebula</h3>
-      <p>An interactive cosmic particle experience. 2,000 pooled particles drift with noise-based motion. Move to attract them, click to burst. Uses a custom GLSL shader and installs as a PWA.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PixiJS_v8-e91e63?style=flat-square" />
-        <img src="https://img.shields.io/badge/GLSL-5586a4?style=flat-square" />
-      </p>
-      <a href="https://nebula-pixijs.netlify.app/"><b>▶️ Try it</b></a> &nbsp;·&nbsp;
-      <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Nebula"><b>💻 Code</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><img src="assets/apple-catcher.jpg" alt="Apple Catcher" width="100%" /></a>
-      <h3>🍎 Apple Catcher</h3>
-      <p>A 30-second browser arcade game. Move the basket to catch falling apples, with arcade physics, particle effects, sound and live scoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Phaser_3-8e44ad?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
-      </p>
-      <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><b>💻 Code</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><img src="assets/flappy-bird.jpg" alt="Flappy Bird" width="100%" /></a>
-      <h3>🐦 Flappy Bird</h3>
-      <p>The classic, recreated in Unity. Tap-to-flap physics, randomly placed pipes, a parallax background, scoring and a game-over flow, all written in C#.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-222c37?style=flat-square" />
-        <img src="https://img.shields.io/badge/C%23-512bd4?style=flat-square" />
-      </p>
-      <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><b>💻 Code</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://crystalux.netlify.app/"><img src="assets/cards/crystalux.svg" alt="Crystalux" width="48%" /></a>&nbsp;
+  <a href="https://nebula-pixijs.netlify.app/"><img src="assets/cards/nebula.svg" alt="Nebula" width="48%" /></a>
+</p>
+<p align="center"><sub><b>Crystalux</b>: <a href="https://crystalux.netlify.app/">▶️ Play</a> · <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Crystalux">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Nebula</b>: <a href="https://nebula-pixijs.netlify.app/">▶️ Try it</a> · <a href="https://github.com/FluffyCrunch/Pixi/tree/main/Nebula">💻 Code</a></sub></p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher"><img src="assets/cards/apple-catcher.svg" alt="Apple Catcher" width="48%" /></a>&nbsp;
+  <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird"><img src="assets/cards/flappy-bird.svg" alt="Flappy Bird" width="48%" /></a>
+</p>
+<p align="center"><sub><b>Apple Catcher</b>: <a href="https://github.com/FluffyCrunch/Phaser/tree/main/AppleCatcher">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Flappy Bird</b>: <a href="https://github.com/FluffyCrunch/Unity-Game/tree/main/Flappy_Bird">💻 Code</a></sub></p>
 
 ---
 
@@ -108,31 +55,11 @@
 
 ### 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 IITIAN CRAFT Website</h3>
-      <p>First draft of the official IITIAN CRAFT site. A full-stack app with user auth, an admin dashboard, contact forms, demo booking and Google Meet scheduling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website"><b>💻 Code</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Vulnerability Scanner</h3>
-      <p>A web application vulnerability scanner with a real-time dashboard. Scan progress streams live over WebSockets, results are stored in PostgreSQL, and it sends notifications.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><b>💻 Code</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website"><img src="assets/cards/iitian-craft.svg" alt="IITIAN CRAFT Website" width="48%" /></a>&nbsp;
+  <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner"><img src="assets/cards/vuln-scanner.svg" alt="Vulnerability Scanner" width="48%" /></a>
+</p>
+<p align="center"><sub><b>IITIAN CRAFT Website</b>: <a href="https://github.com/FluffyCrunch/Online-Digital-Services-Website">💻 Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Vulnerability Scanner</b>: <a href="https://github.com/FluffyCrunch/Web-Application-Vulnerability-Scanner/tree/main/Vulnerability-Scanner">💻 Code</a></sub></p>
 
 ### 🧪 Mini Projects
 
