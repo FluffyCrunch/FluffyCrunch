@@ -58,10 +58,20 @@
 
 ---
 
+## <img src="assets/icons/lightbulb.svg" width="26" /> Random Ideas
+
+<p align="center"><i>Small experiments I build when an idea won't leave my head. One idea, one folder, always live.<br/>Explore them all in the <a href="https://github.com/FluffyCrunch/Random-ideas"><b>Random Ideas playground</b></a>.</i></p>
+
+<p align="center">
+  <a href="https://fog-mirror-fluffycrunch.netlify.app"><img src="assets/cards/fog-mirror-v1.svg" alt="Fog Mirror" width="98%" /></a>
+</p>
+
+---
+
 ## <img src="assets/icons/layers.svg" width="26" /> Tech Stack
 
 <p align="center">
-  <img src="assets/cards/tech-stack-v4.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, Vite, Git, VS Code, Postman, Netlify" width="98%" />
+  <img src="assets/cards/tech-stack-v5.svg" alt="Tech stack: Unity, PixiJS, pixi3d, Babylon.js, Phaser, OpenXR, JavaScript, C#, C++, Python, PHP, GLSL, HTML5, CSS, React, Node.js, Express, Laravel, PostgreSQL, MongoDB, WebSockets, REST APIs, TensorFlow, Keras, Pandas, MediaPipe, Vite, Git, VS Code, Postman, Netlify" width="98%" />
 </p>
 
 ---
