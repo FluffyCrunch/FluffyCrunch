@@ -63,7 +63,8 @@
 <p align="center"><i>Small experiments I build when an idea won't leave my head. One idea, one folder, always live.<br/>Explore them all in the <a href="https://github.com/FluffyCrunch/Random-ideas"><b>Random Ideas playground</b></a>.</i></p>
 
 <p align="center">
-  <a href="https://fog-mirror-fluffycrunch.netlify.app"><img src="assets/cards/fog-mirror-v1.svg" alt="Fog Mirror" width="98%" /></a>
+  <a href="https://hand-pong-fluffycrunch.netlify.app"><img src="assets/cards/hand-pong-v1.svg" alt="Hand Pong" width="48%" /></a>&nbsp;
+  <a href="https://fog-mirror-fluffycrunch.netlify.app"><img src="assets/cards/fog-mirror-v2.svg" alt="Fog Mirror" width="48%" /></a>
 </p>
 
 ---
